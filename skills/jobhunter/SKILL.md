@@ -1,9 +1,9 @@
 ---
-name: jobxhunter-chatgpt
+name: jobhunter
 description: Help with evidence-based CV tailoring, job discovery, cover letters, application tracking and interview preparation using the candidate's own career history.
 ---
 
-# JobXHunter for ChatGPT
+# jobhunter
 
 Use the candidate's confirmed career history as the source of truth. Tailor the work to their requested task, target market and available tools. This is a focused adaptation inspired by JobXHunter, not its full runtime.
 
